@@ -15,5 +15,10 @@
             ],
             "env": {}
         }
+    ],
+    "cSpell.words": [
+        "creational",
+        "pseudostate",
+        "substates"
     ]
 }
